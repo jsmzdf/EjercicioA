@@ -23,3 +23,15 @@ Generar un sistema para que en el gráfico se puedan visualizar la cantidad de l
 Generar un sistema para que en el gráfico se puedan visualizar la cantidad de retweet contra tiempo para conocer las frecuencias de tweets en un intervalo de tiempo.
 
 Generar un sistema para que en el gráfico se puedan visualizar la cantidad de vista del tweet contra tiempo para conocer las frecuencias de vistas de la publicación en un intervalo de tiempo.
+
+
+## Definición de Requerimientos:
+
+Realizar  un método de almacenado de usuarios bloqueados para un tweet  en específico,en donde se registren las identificaciones de aquellos usuarios a los que nos se desea que tenga acceso al tweet.
+
+
+Realizar  un método de almacenado de usuarios bloqueados para un tweet  en específico,en donde se registren las identificaciones de aquellos usuarios a los que nos se desea que puedan realizar un retweet sobre la publicación del usuario..
+
+
+
+
