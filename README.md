@@ -27,7 +27,7 @@ Generar un sistema para que en el gráfico se puedan visualizar la cantidad de v
 
 ## Definición de Requerimientos:
 
-#### Acceso de Usuarios
+#### Acceso de Usuarios:
 
 Realizar  un método de almacenado de usuarios bloqueados para un tweet  en específico,en donde se registren las identificaciones de aquellos usuarios a los que nos se desea que tenga acceso al tweet.
 
@@ -37,4 +37,14 @@ Realizar  un método de almacenado de usuarios bloqueados para un tweet  en espe
 
 Generar un sistema de publicación en el cual en cada tweet publicado se encuentra la lista asociado de exclusión de usuarios en las diferentes acciones (Ver,Like,Tweet) sobre el Tweet.
 
+#### Filtrado de Usuarios:
 
+Realizar método de filtrado de usuarios de Tweeter segun su formacion educativa, género y otros grupos que determine el usuario que realiza la publicación para que segun los grupos elegidos estos tengan o no acceso. 
+
+
+
+####  Categorización :
+
+Definir las categorias que desea observar el usuario en el Dashboard como las diferentes frecuencias entre tiempo y Likes,Visualizaciones y Retweets.
+
+#### 
