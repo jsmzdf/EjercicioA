@@ -29,9 +29,9 @@ Generar un sistema para que en el gráfico se puedan visualizar la cantidad de v
 
 Realizar  un método de almacenado de usuarios bloqueados para un tweet  en específico,en donde se registren las identificaciones de aquellos usuarios a los que nos se desea que tenga acceso al tweet.
 
-Realizar  un método de almacenado de usuarios bloqueados para un tweet  en específico,en donde se registren las identificaciones de aquellos usuarios a los que nos se desea que puedan realizar un retweet sobre la publicación del usuario..
+Realizar  un método de almacenado de usuarios bloqueados para un tweet  en específico,en donde se registren las identificaciones de aquellos usuarios a los que nos se desea que puedan realizar un retweet sobre la publicación del usuario.
 
-Realizar  un método de almacenado de usuarios bloqueados para un tweet  en específico,en donde se registren las identificaciones de aquellos usuarios a los que nos se desea que pueda dar Like sobre la publicación del usuario..
+Realizar  un método de almacenado de usuarios bloqueados para un tweet  en específico,en donde se registren las identificaciones de aquellos usuarios a los que nos se desea que pueda dar Like sobre la publicación del usuario.
 
 Generar un sistema de publicación en el cual en cada tweet publicado se encuentra la lista asociado de exclusión de usuarios en las diferentes acciones (Ver,Like,Tweet) sobre el Tweet.
 
