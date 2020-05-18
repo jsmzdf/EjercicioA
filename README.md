@@ -39,6 +39,8 @@ Generar un sistema de publicación en el cual en cada tweet publicado se encuent
 
 Realizar método de filtrado de usuarios de Tweeter segun su formacion educativa, género y otros grupos que determine el usuario que realiza la publicación para que segun los grupos elegidos estos tengan o no acceso. 
 
+Creacion de una interfaz en donde se seleccione los usuarios que se desean bloquear o a los que se les permitira Ver,Dar Like o realizar un Retweet.
+
 
 ####  Categorización :
 
