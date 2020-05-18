@@ -44,5 +44,3 @@ Realizar método de filtrado de usuarios de Tweeter segun su formacion educativa
 
 Definir las categorias que desea observar el usuario en el Dashboard como las diferentes frecuencias entre tiempo y Likes,Visualizaciones y Retweets.
 
-#### 
-
