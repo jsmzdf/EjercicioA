@@ -37,10 +37,7 @@ Realizar  un método de almacenado de usuarios bloqueados para un tweet  en espe
 
 Generar un sistema de publicación en el cual en cada tweet publicado se encuentra la lista asociado de exclusión de usuarios en las diferentes acciones (Ver,Like,Tweet) sobre el Tweet.
 
-#### Filtrado de Usuarios:
-
 Realizar método de filtrado de usuarios de Tweeter segun su formacion educativa, género y otros grupos que determine el usuario que realiza la publicación para que segun los grupos elegidos estos tengan o no acceso. 
-
 
 
 ####  Categorización :
@@ -48,3 +45,4 @@ Realizar método de filtrado de usuarios de Tweeter segun su formacion educativa
 Definir las categorias que desea observar el usuario en el Dashboard como las diferentes frecuencias entre tiempo y Likes,Visualizaciones y Retweets.
 
 #### 
+
